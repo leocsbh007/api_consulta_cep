@@ -9,3 +9,24 @@ https://docs.python-requests.org/en/latest/
 API - https://viacep.com.br/
 
 https://viacep.com.br/ws/01001000/json/
+
+
+
+GIT
+https://github.com/leocsbh007/api_consulta_cep.git
+
+
+…or create a new repository on the command line
+echo "# api_consulta_cep" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/leocsbh007/api_consulta_cep.git
+git push -u origin master
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/leocsbh007/api_consulta_cep.git
+git branch -M master
+git push -u origin master

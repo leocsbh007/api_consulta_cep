@@ -1,0 +1,11 @@
+Aprenda a como fazer requisições HTTP com Python e como consumir APIs, utilizando a biblioteca requests.
+
+Nesse vídeo você irá aprender à criar um script em Python para consumir, ou melhor, fazer requisições HTTP para uma API, 
+e ainda tratando o objeto de retorno de forma fácil utilizando JSON, nesse exemplo vemos como buscar um endereço pelo CEP utilizando o Python.
+
+https://docs.python-requests.org/en/latest/
+
+
+API - https://viacep.com.br/
+
+https://viacep.com.br/ws/01001000/json/
